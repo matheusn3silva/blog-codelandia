@@ -22,6 +22,8 @@ Tempo de conclusão: cerca de 2 horas.
 
 ## Autor
 
+<img width="150px" height="150px" src="./image/foto.jpeg" />
+
 <h3>Matheus Nascimento</h3>
 
 <a href="https://github.com/matheusn3silva">![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
